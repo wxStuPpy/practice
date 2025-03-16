@@ -1,0 +1,4 @@
+/home/ywx/practice/socket/build/CMakeFiles/server.dir
+/home/ywx/practice/socket/build/CMakeFiles/client.dir
+/home/ywx/practice/socket/build/CMakeFiles/edit_cache.dir
+/home/ywx/practice/socket/build/CMakeFiles/rebuild_cache.dir
