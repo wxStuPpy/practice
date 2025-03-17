@@ -57,5 +57,6 @@ int main(int argc, char *argv[])
         exit(EXIT_FAILURE);
     }
     // 7.relieve the shared memory object  父子进程映射数均-1
+    shm_unlink(shm_name.c_str());
     return 0;
 }
