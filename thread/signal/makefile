@@ -8,6 +8,6 @@ unnamed:unnamed.cpp
 	-./$@
 	-rm $@	
 pro_sign:pro_sign.cpp
-	-${CXX} ${CXXFLAGS}  $^ -o $@
+	-${CXX} ${CXXFLAGS}  $^  -o $@
 	-./$@
-	-rm $@	
+	-rm $@	 
